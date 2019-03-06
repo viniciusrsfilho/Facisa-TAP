@@ -1,0 +1,15 @@
+{
+  "name": "compactador",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Ramos",
+  "license": "ISC",
+  "dependencies": {
+    "archiver": "^3.0.0",
+    "extract-zip": "^1.6.7"
+  }
+}
